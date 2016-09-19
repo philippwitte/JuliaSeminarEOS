@@ -1,7 +1,7 @@
 # JuliaSeminarEOS
 
-This seminar will cover a range of Julia related topics in the context of large scale geophysical modeling and inversion frameworks. We will start with very basic topics like programming environments and debugging tools and move on to more specific topics later in the term. \
-This is intended to be a very flexibel and informal seminar and topics can be presented using classic presentations and/or interactive Julia sessions with live coding examples and discussions. \
+This seminar will cover a range of Julia related topics in the context of large scale geophysical modeling and inversion frameworks. We will start with very basic topics like programming environments and debugging tools and move on to more specific topics later in the term. \\
+This is intended to be a very flexibel and informal seminar and topics can be presented using classic presentations and/or interactive Julia sessions with live coding examples and discussions. \\
 Speakers are welcome to upload their presentations, examples scripts and coding snippets to this Github repository.
 
 ## Time and place
