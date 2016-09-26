@@ -10,7 +10,7 @@ Speakers are welcome to upload their presentations, examples scripts and coding 
 
 * Time: Every other Monday at 1.00 pm
 
-* Room: TBA
+* Room: ESB 5104
 
 ## Preliminary schedule
 
